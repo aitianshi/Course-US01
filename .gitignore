@@ -1,3 +1,4 @@
 # Prevent big files to be pushed
 mobike/UTSEUS-MOBIKE-shanghai_full.csv
 language_analysis/UTSEUS-shanghai-flickr.csv
+data_files/UTSEUS-anjuke-real-estate-baoshan.csv
